@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔍 About Me<br>💻 Software Developer: Skilled in C#, PHP, HTML, CSS, JavaScript, Kotlin, and SQL.<br>🌐 Web Development Enthusiast: Experienced in ASP.NET Core with Azure SQL Database integration, focusing on user-centered and efficient web applications.<br>📱 Mobile App Developer: Building Android applications with Kotlin. Interested in leveraging Gemini 1.5 Flash to enhance mobile app experiences, especially for college students.<br>📚 Lifelong Learner: Constantly expanding my knowledge in Android OS, API integration, and innovative frameworks to stay ahead in the tech world.
+<br>🔍 About Me<br>💻 Software Developer: Skilled in C#, Java, PHP, HTML, CSS, JavaScript, Kotlin, and SQL.<br>🌐 Web Development Enthusiast: Experienced in ASP.NET Core with Azure SQL Database integration, focusing on user-centered and efficient web applications.<br>📱 Mobile App Developer: Building Android applications with Kotlin. Interested in leveraging Gemini 1.5 Flash to enhance mobile app experiences, especially for college students.<br>📚 Lifelong Learner: Constantly expanding my knowledge in Android OS, API integration, and innovative frameworks to stay ahead in the tech world.
 
 
 ## 🌐 Socials:
